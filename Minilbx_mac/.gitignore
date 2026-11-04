@@ -1,0 +1,5 @@
+# Build artifacts
+*.o
+*.a
+mlx_app
+.DS_Store
